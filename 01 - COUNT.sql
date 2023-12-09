@@ -1,6 +1,5 @@
-Para exibir o número de diferentes nomes de departamentos (nomeDepartamento) a partir da
+/* Para exibir o número de diferentes nomes de departamentos (nomeDepartamento) a partir da
 tabela TabDepartamentos, suprimindo duplicacões, utiliza-se a instrução SQL:
-SELECT
+SELECT */
 
-
-COUNT (nomeDepartamento) FROM TabDepartamentos NOT REPEAT
+COUNT(DISTINCT nomeDepartamento) FROM TabDepartamentos;
