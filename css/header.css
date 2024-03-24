@@ -23,6 +23,7 @@ header{
   color: #1d1d1dad;
   font-weight: 600;
 }
-.nav item.active{
+.nav item.active a{
   color: #1d1d1d;
+  border-bottom: 3px solid #ffe100;
 }
