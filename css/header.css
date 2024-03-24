@@ -3,14 +3,26 @@ header{
   padding: 28px 8%;
 }
 
-#navbar{
+#navbar {
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-#nav_logo{
+#nav_logo {
   font-size: 24px;
   color: #e9a209;
+}
+#nav_list {
+  display: flex;
+  list-style: none;
+  gap: 48px;
+}
+.nav-item a {
+  color: #1d1d1dad;
+  font-weight: 600;
+}
+.nav item.active{
+  color: #1d1d1d;
 }
