@@ -47,5 +47,7 @@ header{
   }
 }
 #mobile_menu.active{
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
