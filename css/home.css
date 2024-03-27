@@ -29,10 +29,14 @@
   display: flex;
   gap: 24px;
 }
+
+
 #cta_buttons a{
   text-decoration: none;
   color: 1d1d1d;
 }
+
+
 #phone_button{
   display: flex;
   gap: 8px;
@@ -44,11 +48,16 @@
   border-radius: 12px;
 }
 
+#phone_button button{
+  box-shadow: none;
+}
+
 #banner {
   display: flex;
   align-items: start; 
   justify-content: end;
   width: 70%;
+  z-index: 2;
 }
 
 #banner img{
@@ -61,4 +70,33 @@
   width: 50%;
   height: 100%;
   position: absolute;
+  border-radius: 40% 30% 20%;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
+
+@media screen and (max-width: 1170px) {
+  #home{
+    min-height: 100%;
+    padding-top: 0px;
+  }
+   #banner,
+   #banner img,
+   #home .shape{
+     display: none;
+   }
+
+  #cta{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  #phone_button button{
+    display: none;
+  }
+
 }
