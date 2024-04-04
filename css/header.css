@@ -16,7 +16,7 @@ header{
 
 #nav_logo {
   font-size: 24px;
-  color: #e9a209;
+  color: #FF6600;
 }
 #nav_list {
   display: flex;
@@ -24,12 +24,12 @@ header{
   gap: 48px;
 }
 .nav-item a {
-  color: #1d1d1d1dad;
+  color: #1d1d1d;
   font-weight: 600;
 }
 .nav item.active a{
-  color: #1d1d1dad;
-  border-bottom: 3px solid #ffe100;
+  color: #1d1d1d;
+  border-bottom: 3px solid #e9a209;
 }
 #mobile_btn{
   display: none;
