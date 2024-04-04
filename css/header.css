@@ -24,7 +24,7 @@ header{
   gap: 48px;
 }
 .nav-item a {
-  color: #1d1d1dad;
+  color: #1d1d1d1;
   font-weight: 600;
 }
 .nav item.active a{
