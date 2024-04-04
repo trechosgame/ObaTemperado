@@ -6,7 +6,13 @@
   padding:0;
   box-sizing:border-box;  
 }
-
+:root{
+  --color-primary: #FF6600;
+  --color-primary: #FF6600;
+  --color-primary: #FF6600;
+  --color-primary: #FF6600;
+  --color-primary: #FF6600;
+}
 body{
   background-color:#fff9ea;
 }
