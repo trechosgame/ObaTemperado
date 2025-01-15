@@ -1386,6 +1386,8 @@ p {
 }
 
 .footer-logo {
+    color: hsl(210, 26%, 7%);
+    font-size: 3.2rem;
     margin-bottom: 30px;
 }
 
