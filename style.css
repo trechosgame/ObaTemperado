@@ -146,6 +146,13 @@ ul {
   color: var(--rich-black-fogra-29);
   font-size: 3.2rem;
 }
+.hero-bg{
+  position: absolute;
+  inset: 0;
+  background: url('../img/hero-bg.jpg') center/cover;
+  filter: brightness(0.25);
+  z-index: -1;
+}
 .cart-number {
     position: absolute;
     top: -10px;
