@@ -150,7 +150,6 @@ ul {
   position: absolute;
   inset: 0;
   background: url('assets/images/hero-bg.jpg') center/cover;
-  filter: brightness(0.25);
   z-index: -1;
 }
 .cart-number {
