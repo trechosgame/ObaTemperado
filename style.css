@@ -146,20 +146,12 @@ ul {
   color: var(--rich-black-fogra-29);
   font-size: 3.2rem;
 }
-.banner{
-  position: relative;
-  width: 100%;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;  
-  background: url('assets/images/hero-bg.jpg');
-  background-size: cover;
-}
-.banner ,content
-{
-    max-width: 900px;
-    text-align: center;
+.hero-bg{
+  position: absolute;
+  inset: 0;
+  background: url('assets/images/hero-bg.jpg') center/cover;
+  filter: brightness(1);
+  z-index: -1;
 }
 .cart-number {
     position: absolute;
