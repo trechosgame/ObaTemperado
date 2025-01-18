@@ -146,7 +146,7 @@ ul {
   color: var(--rich-black-fogra-29);
   font-size: 3.2rem;
 }
-.hero-bg{
+.banner{
   position: relative;
   width: 100%;
   min-height: 100vh;
