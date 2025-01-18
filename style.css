@@ -154,7 +154,6 @@ ul {
   justify-content: center;
   align-items: center;  
   background: url('assets/images/hero-bg.jpg');
-  filter: brightness(1);
   background-size: cover;
 }
 .banner ,content
