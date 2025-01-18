@@ -147,11 +147,20 @@ ul {
   font-size: 3.2rem;
 }
 .hero-bg{
-  position: absolute;
-  inset: 0;
-  background: url('assets/images/hero-bg.jpg') center/cover;
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  background: url('assets/images/hero-bg.jpg');
   filter: brightness(1);
-  z-index: -1;
+  background-size: cover;
+}
+.banner ,content
+{
+    max-width: 900px;
+    text-align: center;
 }
 .cart-number {
     position: absolute;
