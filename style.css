@@ -131,7 +131,7 @@ ul {
     align-items: center;
 }
 .header-logo {
-  color: #d1a461;
+  color: #ff8243;
   font-family: 'Poppins', sans-serif;
   font-size: 2em;
   text-decoration: none;
@@ -141,11 +141,15 @@ ul {
 
 .header-logo .span {
   display: inline-block;
-  color: #d1a461;
+  color: #ff8243;
 }
 .footer .logo {
-  color: #d1a461;
-  font-size: 3.2rem;
+  color: #ff8243;
+  font-size: 2em;
+}
+.hero{
+  position: relative;
+  padding: 260px 0;
 }
 .hero-bg{
   position: absolute;
@@ -1394,7 +1398,7 @@ p {
 }
 
 .footer-logo {
-    color: hsl(210, 26%, 7%);
+    color: #ff8243;
     font-size: 3.2rem;
     margin-bottom: 30px;
 }
