@@ -131,7 +131,7 @@ ul {
     align-items: center;
 }
 .logo {
-  color: #fff;
+  color: #d1a461;
   font-family: 'Poppins', sans-serif;
   font-size: 2em;
   text-decoration: none;
@@ -144,7 +144,7 @@ ul {
   color: #d1a461;
 }
 .footer .logo {
-  color: var(--rich-black-fogra-29);
+  color: #d1a461;
   font-size: 3.2rem;
 }
 .hero-bg{
