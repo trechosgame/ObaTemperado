@@ -1,5 +1,5 @@
 # Oba Temperado - Restaurante:
-<img src="001.jpg" width="500px" alt="Oba Temperado - Restaurante">
+<img src="001.png" width="500px" alt="Oba Temperado - Restaurante">
 
 
 # Código fonte:
