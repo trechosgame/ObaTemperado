@@ -1,7 +1,5 @@
 # Expectativa:
 
-# Realidade:
-
 
 # Código fonte:
  - https://www.youtube.com/watch?v=ccNvJfonP3k
