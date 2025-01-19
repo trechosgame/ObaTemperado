@@ -130,7 +130,7 @@ ul {
     box-shadow: inset 6px 6px 7px #dadada, inset -6px -6px 7px #ffffff;
     align-items: center;
 }
-.logo {
+.header-logo {
   color: #d1a461;
   font-family: 'Poppins', sans-serif;
   font-size: 2em;
@@ -139,7 +139,7 @@ ul {
   letter-spacing: -2px;
 }
 
-.logo .span {
+.header-logo .span {
   display: inline-block;
   color: #d1a461;
 }
