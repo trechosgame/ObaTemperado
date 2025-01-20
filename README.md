@@ -1,4 +1,6 @@
 # Oba Temperado - Restaurante:
+Desenvolvido em HTML, CSS E JAVASCRIPT
+
 <img src="001.png" width="500px" alt="Oba Temperado - Restaurante">
 
 <img src="002.png" width="500px" alt="Oba Temperado - Restaurante">
